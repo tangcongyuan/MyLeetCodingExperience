@@ -1,2 +1,2 @@
-# This is my answer files to LeetCode's questions.
-# From Mar. 12th 2015
+# This is my answering files to LeetCode's questions.
+From Mar. 12th 2015
